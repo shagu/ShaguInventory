@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: |cff33ffccShagu|cffffffffInventory
+## Author: Eric (Shagu) Mauser, 2016
+## Notes: A fork of InventoryCounter. Shows the count of items in your inventory of all charactes on the same account.
+## Version: 0.1
+## SavedVariables: InventoryCounterDB
+ShaguInventory.lua
