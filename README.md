@@ -4,7 +4,7 @@ Started as a fork of an abandoned project called "InventoryCounter". It shows th
 
 This addon shows the count of items you have on all chars (accountwide) as a tooltip info.
 
-![preview](http://shagu.org/shagucollection/img/ShaguInventory.jpg)
+![preview](https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/ShaguInventory/tooltip.jpg)
 
 ## Installation
 1. Download **[Latest Version](https://github.com/shagu/ShaguInventory/archive/master.zip)**
