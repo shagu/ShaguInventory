@@ -6,9 +6,16 @@ This addon shows the count of items you have on all chars (accountwide) as a too
 
 ![preview](https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/ShaguInventory/tooltip.jpg)
 
-## Installation
+## Installation (Vanilla, 1.12)
 1. Download **[Latest Version](https://github.com/shagu/ShaguInventory/archive/master.zip)**
 2. Unpack the Zip file
 3. Rename the folder "ShaguInventory-master" to "ShaguInventory"
 4. Copy "ShaguInventory" into Wow-Directory\Interface\AddOns
+5. Restart Wow
+
+## Installation (The Burning Crusade, 2.4.3)
+1. Download **[Latest Version](https://github.com/shagu/ShaguInventory/archive/master.zip)**
+2. Unpack the Zip file
+3. Rename the folder "ShaguInventory-master" to "ShaguInventory-tbc"
+4. Copy "ShaguInventory-tbc" into Wow-Directory\Interface\AddOns
 5. Restart Wow
