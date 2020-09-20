@@ -1,4 +1,4 @@
-## Interface: 11200
+## Interface: 20400
 ## Title: |cff33ffccShagu|cffffffffInventory
 ## Author: Shagu
 ## Notes: A fork of InventoryCounter. Shows the count of items in your inventory of all charactes on the same account.
