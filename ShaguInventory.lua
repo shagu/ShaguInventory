@@ -85,7 +85,7 @@ InventoryCounterFrame:SetScript("OnEvent", function (self)
   end)
 InventoryCounterFrameToolTip = CreateFrame( "Frame" , "InventoryCounterFrameToolTip", GameTooltip )
 InventoryCounterFrameToolTip:SetScript("OnShow", function (self)
-    if InventoryCounterDB and not MerchantFrame:IsVisible() then
+    if InventoryCounterDB then
       local lbl = getglobal("GameTooltipTextLeft1")
       if lbl then
         local itemName = lbl:GetText()
