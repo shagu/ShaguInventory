@@ -85,6 +85,7 @@ InventoryCounterFrame:SetScript("OnEvent", function (self)
   end)
 InventoryCounterFrameToolTip = CreateFrame( "Frame" , "InventoryCounterFrameToolTip", GameTooltip )
 InventoryCounterFrameToolTip:SetScript("OnShow", function (self)
+    if GameTooltip:GetAnchorType() == "ANCHOR_CURSOR" then return end
     if InventoryCounterDB then
       local lbl = getglobal("GameTooltipTextLeft1")
       if lbl then
